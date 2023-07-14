@@ -1,0 +1,26 @@
+* omitir carpetas 
+
+* CSS/     ESTA ES LA SINTAXIS PARA OMITIR carpetas
+
+* OMITIR ARCHIVOS 
+
+* css/styles.css     esta es la sintaxis para elimiar archivos dentro de una carpeta, siempre hay que poner la extencion del archivos
+
+* index.js                ignorar archivos en la carpeta raiz
+
+* en el terminal
+
+* git init    se usa para iniciar la carpeta dentro del projecto
+* git status me muestra como estan los archivos    si en area de trabajo,  area de preparacion , o en el projecto
+
+* git add css/styles.css   subir archivo a area de preparacion 
+
+* git commit -m"estructura del proyecto" 
+
+*git log muestra el ultimo commit
+
+* configurar github
+
+* git config -- global user.email "correo"
+* git config -- global user.username "nombre usuario"
+* git config -- global user.name "nombre"
