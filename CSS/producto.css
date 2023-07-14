@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+}
+#bigbox{
+    background-color: aqua;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+}
