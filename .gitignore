@@ -24,3 +24,23 @@
 * git config -- global user.email "correo"
 * git config -- global user.username "nombre usuario"
 * git config -- global user.name "nombre"
+
+* agregar archivos al commit anterior 
+* git commit --amend --no-edit
+
+* git branch es un espacio de trabajo, es una rama
+
+* git branch -M main
+
+* git branch producto    crear rama producto
+
+* git checkout producto   cambiarse de rama
+
+* git branch -d producto    borrar rama producto
+
+* git checkout -b producto     crea la ramma y la selecciona de una vez
+
+* cls es lo mismo que clear
+
+
+
